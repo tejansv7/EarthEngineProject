@@ -4,8 +4,8 @@ This is a repository for different steps in downscaling the SMAP soil moisture d
 # Functions
 1. [Link to Functions](https://github.com/tejansv7/EarthEngineProject/blob/main/Functions.js)
 
-'''
-/** supporting functions **/
+<code>
+        /** supporting functions **/
         
  /*To add the date yyyy-mm-dd in milliseconds as a property, to use it as a filter while combining the SAR and SMAP collections*/
     
@@ -36,4 +36,5 @@ var filterTimeEq = ee.Filter.equals({
 leftField: 'ymd_millis',
 rightField: 'ymd_millis'
     });
-'''
+
+        </code>
