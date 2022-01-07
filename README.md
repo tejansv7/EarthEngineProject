@@ -4,4 +4,4 @@ This is a repository for different steps in downscaling the SMAP soil moisture d
 
 Link for the beta version application
 
-[Click here to see the demo]https://noothi-191860.users.earthengine.app/view/trialapp
+[Click on the link to see the demo]https://noothi-191860.users.earthengine.app/view/trialapp
